@@ -6,7 +6,7 @@ Ce programme effectue diverses opérations de traitement d'images, y compris le 
 
 1. **Cloner le dépôt :**
    ```bash
-   git clone https://github.com/votre-utilisateur/programme-fourier.git
+   git clone https://github.com/Laudial/fourrier.git
    cd programme-fourier
    
 2. **Installer les dépendances :**
